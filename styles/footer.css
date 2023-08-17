@@ -1,0 +1,135 @@
+.footer-conclution{
+  margin-top: 100px;
+  top: 5px;
+  /* background-color: rgb(212, 212, 226); */
+  display: grid;
+  height: 480px;
+  grid-template-columns: 1fr 1fr 1fr 1fr ;
+  margin-right: 5px;
+  padding-left: 8px;
+}
+
+.footer-logo{
+  height: 200px;
+}
+
+/* .footer-icon{
+  height: 16px;
+  margin-left: 2px;
+  margin-right: 5px;
+} */
+
+.address-icon{
+  height: 16px;
+  margin-left: 3px;
+  margin-right: 5px;
+}
+
+.call-icon{
+  height: 17px;
+  /* margin-left: 2px; */
+  margin-right: 5px;
+}
+
+.mail-icon{
+  height: 16px;
+  margin-left: 2px;
+  margin-right: 5px;
+}
+
+.hours-icon{
+  height: 16px;
+  margin-left: 5px;
+  margin-right: 9px;
+}
+
+.address-para{
+  font-size: 17px;
+  font-family: 'Poppins';
+}
+
+.call-para{
+  font-size: 17px;
+  font-weight: bold;
+  padding-left: 7px;
+}
+.mail-para{
+  font-size: 17px;
+  font-weight: bold;
+  padding-left: 2px;
+}
+
+.number,
+.email{
+  color: #3bb77e;
+}
+
+.hours-para{
+  font-size: 14px;
+  font-family: 'Poppins';
+}
+
+/* Company details */
+
+.company-heading{
+  font-size: 25px;
+  margin-top: 70px;
+  margin-left: 10px;
+  font-family: 'Poppins';
+}
+
+.company-para{
+  font-size: 15px;
+  margin-left: 10px;
+  font-family: 'Poppins';
+}
+
+/* Company details */
+
+.company-heading{
+  font-size: 25px;
+  margin-top: 70px;
+  margin-left: 10px;
+  font-family: 'Poppins';
+}
+
+.click{
+  cursor: pointer;
+}
+
+.click:hover{
+  color: rgba(204, 213, 135, 0.984);
+}
+
+.company-para{
+  font-size: 15px;
+  margin-left: 10px;
+  font-family: 'Poppins';
+}
+
+.install-para{
+  font-size: 15px;
+  margin-left: 10px;
+  font-family: 'Poppins';
+  color: #ce506f;
+}
+
+/* Install App */
+
+.app-img{
+  display: flex;
+  position: relative;
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.google-play-img{
+  height: 60px;
+  margin-right: 7px;
+}
+
+.app-store-img{
+  height: 60px;
+  margin-left: 7px;
+  margin-right: 5px;
+}

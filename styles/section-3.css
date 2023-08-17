@@ -1,0 +1,81 @@
+/* .rows-1{
+  display: flex;
+  flex-direction: row;
+  column-gap: 18px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  position: relative;
+} */
+
+.category-2{
+  /* background-color: #f1eded; */
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+  top: 50px;
+  height: 450px;
+  width: 350px;
+  display:inline-block;
+  margin: 5px 7px;
+  background-color: 50px;
+  position: relative;
+  left: 10px;
+  border: none;
+  border-radius: 15px;
+  margin-right: 13px;
+  margin-bottom: 100px;
+}
+
+.img-art-2{
+  height: 200px;
+  margin-left: 75px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.cate-name-1{
+  color: #adadad;
+  margin-left: 70px;
+  font-family: 'Poppins';
+  font-size: 14px;
+  padding: 2px;
+}
+
+.cate-name-2{
+  font-family: 'Poppins';
+  font-weight: bold;
+  font-family: 'Poppins';
+  margin-left: 70px;
+}
+
+.cate-product-2{
+  justify-content: center;
+  font-family: 'Poppins';
+  font-size: 18px;
+  color: #3bb77e;
+  margin-left: 70px;
+  font-weight: bold;
+}
+
+.kart-icon{
+  height: 15px;
+}
+
+.kart-btn{
+  font-size: 18px;
+  margin-top: 15px;
+  background-color: #3bb77e;
+  color: white;
+  border: none;
+  padding: 15px 70px;
+  border-radius: 5px;
+  margin-left: 40px;
+  cursor: pointer;
+}
+
+.kart-btn:hover{
+  background-color: #fcb900;
+}
+

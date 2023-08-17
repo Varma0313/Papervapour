@@ -1,0 +1,29 @@
+.main-menu {
+  height: 80px;
+  align-items: center;
+  flex-direction: row;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.nav-bar{
+  display:flex ;
+  padding-top: 25px;
+}
+
+.menu-details{
+  display: flex;
+  flex-direction: row;
+}
+
+.name{
+  font-size: 20px;
+  color: rgb(157, 148, 148);
+  margin-right: 25px;
+  cursor: pointer;
+}
+
+.name:hover{
+  color: black;
+  font-weight: bold;
+}

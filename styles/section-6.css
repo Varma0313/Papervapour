@@ -1,0 +1,22 @@
+.guaranty{
+  display: flex;
+  flex-direction: column;
+  /* background-color: yellowgreen; */
+  position: relative;
+  width: 750px;
+  height: 250px;
+  margin-top: 100px;
+}
+
+.guaranty-heading{
+  padding-left: 70px;
+  font-size: 38px;
+  font-family: 'Poppins';
+}
+
+.guaranty-para{
+  padding-left: 70px;
+  font-size: 15px;
+  font-family: 'Poppins';
+}
+

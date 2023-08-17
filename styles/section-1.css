@@ -1,0 +1,168 @@
+.left-content{
+  display: flex;
+  flex-direction: row;
+  margin-top: 5px;
+}
+
+.jan-4-pre-wed{
+position: relative;
+min-height: 538px;
+width: 1040px;
+object-fit: cover;
+border-radius: 40px;
+padding: 10px;
+
+}
+
+.jan-4-btn{
+  position: absolute;
+  left: 120px;
+  top: 670px;
+  background-color: #5cb179;
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  border: none ;
+  padding: 12px 17px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.jan-4-btn:hover{
+  background-color: rgb(233, 222, 13);
+  color: black;
+}
+
+.sale-jan4{
+  display: flex;
+  font-size: 70px;
+  color: white;
+  position: absolute;
+  top: 220px;
+  left: 125px;
+  font-size: 50px;
+  font-family: 'Poppins';
+  font-weight: bold;
+}
+
+.sale-jan4-1{
+  /* display: flex;
+  position: absolute;
+  left: 125px;
+  font-size: 32px;
+  color: white;
+  font-family:sans-serif ; */
+
+  display: flex;
+  font-size: 70px;
+  color: white;
+  position: absolute;
+  top: 500px;
+  left: 125px;
+  font-size: 32px;
+  font-family: 'Poppins';
+}
+
+.right-content{
+  /* display: flex; */
+  flex-wrap: wrap;
+  margin-top: 11px;
+  position: relative;
+}
+
+.buy-link-1{
+  position: absolute;
+  margin-left: 45px;
+  margin-top: 45px;
+  color: white;
+  font-size: 16px;
+  font-family: 'Poppins';
+  cursor: pointer;
+}
+
+.buy-details-1{
+  position: absolute;
+  margin-left: 45px;
+  margin-top: 90px;
+  color: white;
+  /* font-size: 16px; */
+  font-family: 'Poppins';
+  cursor: pointer;
+}
+
+.buy-btn-1{
+  position: absolute;
+  margin-top: 210px;
+  margin-left: 45px;
+  background-color: #5cb179;
+  color: white;
+  padding: 8px 9px;
+  border-radius: 4px;
+  font-weight: 6px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.pic-1{
+  height: 280px;
+  width: 440px;
+  align-items: center;
+  margin: 5px, 10px, 0px, 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  border-radius: 15px;
+}
+
+.pic-1:hover{
+  transition: 0.2s;
+}
+
+.buy-link-2{
+  position: absolute;
+  margin-left: 45px;
+  margin-top: 45px;
+  color: white;
+  font-size: 16px;
+  font-family: 'Poppins';
+  cursor: pointer;
+}
+
+.buy-details-2{
+  position: absolute;
+  margin-left: 45px;
+  margin-top: 90px;
+  color: white;
+  /* font-size: 16px; */
+  font-family: 'Poppins';
+  cursor: pointer;
+}
+
+.buy-btn-2{
+  position: absolute;
+  margin-top: 175px;
+  margin-left: 45px;
+  background-color: #5cb179;
+  color: white;
+  padding: 8px 9px;
+  border-radius: 4px;
+  font-weight: 6px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.pic-2{
+  height: 230px;
+  width: 440px;
+  align-items: center;
+  margin-top: 8px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  border-radius: 15px;
+}
+
