@@ -2,11 +2,16 @@
   margin-top: 100px;
   top: 5px;
   /* background-color: rgb(212, 212, 226); */
-  display: grid;
+/*   display: grid; */
+  display: flex;
   height: 480px;
   grid-template-columns: 1fr 1fr 1fr 1fr ;
   margin-right: 5px;
   padding-left: 8px;
+}
+
+.space{
+  width: 500px;
 }
 
 .footer-logo{
